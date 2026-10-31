@@ -1,7 +1,7 @@
-# 3D Animated Short Film
+# 2D Animated Short Film
 
 ## Description
-A 3D animated short film created using
+A 2D animated short film created using
 Blender and CapCut.
 
 ## Watch the Animation
